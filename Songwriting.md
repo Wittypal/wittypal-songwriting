@@ -1,5 +1,8 @@
+```
 Songwriting
+
 [Vamp on chords for a bit too long]
+
 Writing songs is really hard
 I don't know where to start
 It's even worse than writing a fucking letter
@@ -68,9 +71,7 @@ If you liked what I did with this set
 
 A A7 Bm7 Em G Gm D 
 
-
-
-
+```
 
 
 
